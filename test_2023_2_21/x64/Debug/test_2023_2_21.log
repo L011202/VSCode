@@ -1,0 +1,12 @@
+﻿  A.c
+E:\VSCode\test_2023_2_21\A.c(19,18): error C2017: 非法的转义序列
+E:\VSCode\test_2023_2_21\A.c(19,19): error C2146: 语法错误: 缺少“)”(在标识符“n”的前面)
+E:\VSCode\test_2023_2_21\A.c(19,20): error C2059: 语法错误:“)”
+E:\VSCode\test_2023_2_21\A.c(20,18): error C2017: 非法的转义序列
+E:\VSCode\test_2023_2_21\A.c(20,19): error C2146: 语法错误: 缺少“)”(在标识符“n”的前面)
+E:\VSCode\test_2023_2_21\A.c(20,20): error C2059: 语法错误:“)”
+E:\VSCode\test_2023_2_21\A.c(21,17): error C2017: 非法的转义序列
+E:\VSCode\test_2023_2_21\A.c(21,18): error C2146: 语法错误: 缺少“)”(在标识符“n”的前面)
+E:\VSCode\test_2023_2_21\A.c(21,16): warning C4474: printf: 格式字符串中传递的参数太多
+E:\VSCode\test_2023_2_21\A.c(21,16): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\VSCode\test_2023_2_21\A.c(21,19): error C2059: 语法错误:“)”
