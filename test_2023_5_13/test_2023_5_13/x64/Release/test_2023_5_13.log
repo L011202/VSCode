@@ -1,0 +1,8 @@
+﻿  test.c
+D:\VScode\test_2023_5_13\test_2023_5_13\test.c(28,4): warning C4101: “s2”: 未引用的局部变量
+D:\VScode\test_2023_5_13\test_2023_5_13\test.c(27,17): warning C4101: “s1”: 未引用的局部变量
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  test_2023_5_13.vcxproj -> D:\VScode\test_2023_5_13\x64\Release\test_2023_5_13.exe
